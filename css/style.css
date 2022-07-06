@@ -1,0 +1,96 @@
+/* HEADER CONTENT*/
+header {
+    align-items: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.logo {
+    width: 25%;
+    padding-left: 30px;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 1.3em;
+    font-weight: 800;
+    color: #7B78BF;
+}
+
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+
+nav {
+    width: 65%;
+    float: right;
+    align-items: center;
+}
+
+ul {
+    float: right;
+}
+
+li {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 15px;
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.5em;
+    font-weight: 500;
+    color: #F26B76;
+    font-weight: 500;
+}
+
+/* HERO CONTENT*/
+.hero-content {
+    height: 650px;
+    background-image: url("https://images.unsplash.com/photo-1604871038809-0462d7c3a3a0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
+    background-size: cover;
+}
+
+.hero-title {
+    font-family: 'Varela Round', sans-serif;
+    font-size: 6em;
+    font-weight: 800;
+    color: white;
+    text-align: center;
+    padding-top: 250px;
+}
+
+.title {
+    width: 20%;
+}
+
+.hero-description {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 2.3em;
+    font-weight: 300;
+    color: black;
+    text-align: center;
+}
+
+/* FOOTER CONTENT*/
+.footer-content {
+    text-align: center;
+    padding-top: 40px;
+}
+
+.footer-title {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.8em;
+    font-weight: 300;
+    text-align: center;
+    color: #F26B76;
+    font-weight: 600;
+}
+
+.social-icons img {
+    width: 40px;
+}
+
+.copyright {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1em;
+    font-weight: 300;
+    color: #F26B76;
+    text-align: center;
+}
